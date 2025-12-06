@@ -114,14 +114,8 @@ http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/344d5283-2f8f-43ae-85f0-5ba7
 #EXTINF:-1 tvg-id="TUDNVIX" tvg-name="TUDN Vix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Vix
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c7020a54-f327-47c1-b849-6482d55ba7bb.m3u8
 
-#EXTINF:-1 tvg-id="TUDN1" tvg-name="TUDN Extra 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 1 USA
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/346aed39-4f8d-4130-a5af-76df3d96fca2.m3u8
-
 #EXTINF:-1 tvg-id="TUDN2" tvg-name="TUDN Extra 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 2 USA
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/32659c44-6ef6-48df-8eba-d175deebe0c3.m3u8
-
-#EXTINF:-1 tvg-id="TUDN3" tvg-name="TUDN Extra 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 3 USA
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/77fbb50b-c2d8-4eea-b32b-4b7606cbfa1d.m3u8
 
 #EXTINF:-1 tvg-id="TUDN4" tvg-name="TUDN Extra 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 4 USA
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/884bcbc3-197d-4bf1-bd8d-e8e638e43443.m3u8
@@ -129,10 +123,10 @@ http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/884bcbc3-197d-4bf1-bd8d-e8e6
 #EXTINF:-1 tvg-id="TUDN5" tvg-name="TUDN Extra 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 5 USA
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/8fc0022e-c8e3-42ce-af60-eb477a451bd2.m3u8
 
-#EXTINF:-1 tvg-id="TUDN6" tvg-name="TUDN Extra 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 6 USA
+#EXTINF:-1 tvg-id="TUDN6" tvg-name="TUDN Mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Mx
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a50c341e-a0d7-47cb-84bb-42e254ca0154.m3u8
 
-#EXTINF:-1 tvg-id="TUDN7" tvg-name="TUDN Extra 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 7 USA
+#EXTINF:-1 tvg-id="TUDN7" tvg-name="TUDN Extra 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 7 MX
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/76866d45-3078-4eb8-ab0d-797edb255fc0.m3u8
 
 #EXTINF:-1 tvg-id="TUDN8" tvg-name="TUDN Extra 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 8 USA
