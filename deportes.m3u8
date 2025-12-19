@@ -1,67 +1,67 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png" group-title="Deportes",AyM Sports
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/dbc9e649-b89b-4277-9fdd-59f8bea93afd.m3u8
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 #EXTINF:-1 tvg-id="clarosports" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/8e98ff9c-4f7e-4c2e-b7c4-86dd9af7be2d.m3u8
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="calientetv" tvg-name="Caliente TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Caliente_TV_Logo.png" group-title="Deportes",Caliente TV
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f8a4b03c-f472-4cfa-9fdd-c24eb54b117d.ts
 
 #EXTINF:-1 tvg-id="ESPNARG" tvg-name="ESPN (Argentina)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN (Argentina)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/75061175-8a1a-465b-aeef-11c015fafa19.ts
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/699140
 
 #EXTINF:-1 tvg-id="ESPNMX" tvg-name="ESPN (México)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN (México)
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/09602a05-6537-40f6-981e-95fb71fc7377.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2ARG" tvg-name="ESPN 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (Argentina)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/403bebaf-19f5-424c-b2ab-151c2bbe6b80.ts
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/375394
 
 #EXTINF:-1 tvg-id="ESPN2MX" tvg-name="ESPN 2 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (México)
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2ec93d77-d901-4d7e-a0f9-278ac713bf05.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3ARG" tvg-name="ESPN 3 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 (Argentina)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/34f09d43-811e-4964-98f6-e035afc49f92.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/704024
 
 #EXTINF:-1 tvg-id="ESPN3MX" tvg-name="ESPN 3 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 (México)
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/23a34fbd-3c7a-409c-9121-3ad225087be7.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4ARG" tvg-name="ESPN 4 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (Argentina)
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/235410
 
 #EXTINF:-1 tvg-id="ESPN4MX" tvg-name="ESPN 4 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (México)
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/bbf0803e-cfa1-49b6-9e5f-f89339758cba.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/5ac16296-43bb-4bf7-aefe-e449a3e36460.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/99663
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/264450a7-13fe-4b93-a5a3-74d40bffe7a7.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/99665
 
 #EXTINF:-1 tvg-id="FOXONE" tvg-name="Fox One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fox_One_2025.svg/2560px-Fox_One_2025.svg.png" group-title="Deportes",Fox One
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/87cd900e-f86a-4092-a0d9-1e4eee4ae130.ts
 
 #EXTINF:-1 tvg-id="FOXSPORTSARG" tvg-name="Fox Sports (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports (Argentina)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c2128a48-7128-469a-8187-d15b95c82529.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/671754
 
 #EXTINF:-1 tvg-id="FOXSPORTS2ARG" tvg-name="Fox Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 (Argentina)
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2adc23db-fd5f-4fd9-b081-b105b7735423.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS3ARG" tvg-name="Fox Sports 3 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 (Argentina)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/52b5d0a9-0472-446a-9cc2-774124fc3237.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/701271
 
 #EXTINF:-1 tvg-id="FOXSPORTSMX" tvg-name="Fox Sports (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports (México)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/008d479d-a96d-40ee-86b6-00f420270438.m3u8
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/675656
 
 #EXTINF:-1 tvg-id="FOXSPORTS2MX" tvg-name="Fox Sports 2 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/1024px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 (México)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a64726fa-dec3-43b0-b99a-d446b0365a05.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/397957
 
 #EXTINF:-1 tvg-id="FOXSPORTS3MX" tvg-name="Fox Sports 3 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 (México)
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/aad23070-b31d-4ab2-8ac1-5e9c726299ab.m3u8
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/397958
 
 #EXTINF:-1 tvg-id="FOXSPORTSPREMIUM" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2d078854-d967-4b61-8d6b-94f1994938d7.m3u8
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/690528
 
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="Deportes",NBA TV
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fae7ab7a-1371-489f-9464-19c91d5657f3.m3u8
