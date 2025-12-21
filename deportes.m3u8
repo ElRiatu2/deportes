@@ -52,7 +52,7 @@ http://yuniott.xyz/W9G5594/7KZL4WT/30733
 http://yuniott.xyz/W9G5594/7KZL4WT/30732
 
 #EXTINF:-1 tvg-id="FOXSPORTSMX" tvg-name="Fox Sports (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports (México)
-http://pixelmax.link:8085/Ladyvillares57389/8374847372/675656
+http://yuniott.xyz/W9G5594/7KZL4WT/140278
 
 #EXTINF:-1 tvg-id="FOXSPORTS2MX" tvg-name="Fox Sports 2 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/1024px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 (México)
 http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/397957
@@ -61,7 +61,7 @@ http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/397957
 http://yuniott.xyz/W9G5594/7KZL4WT/1028355
 
 #EXTINF:-1 tvg-id="FOXSPORTSPREMIUM" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
-http://pixelmax.link:8085/Ladyvillares57389/8374847372/690528
+http://yuniott.xyz/W9G5594/7KZL4WT/1028356
 
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="Deportes",NBA TV
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fae7ab7a-1371-489f-9464-19c91d5657f3.m3u8
@@ -69,8 +69,8 @@ http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fae7ab7a-1371-489f-9464-19c9
 #EXTINF:-1 tvg-id="NFLNETWORK" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Deportes",NFL Network
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a0a53946-e8ed-459c-aa54-614abd6f7742.m3u8
 
-#EXTINF:-1 tvg-id="WWENETWORK" tvg-name="WWE Network" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Deportes",WWE Network
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fedd13df-2d37-4440-a4e8-d7ca1d8671dd.m3u8
+#EXTINF:-1 tvg-id="WWECHANNEL" tvg-name="WWE Channel" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Deportes",WWE Channel
+http://yuniott.xyz/W9G5594/7KZL4WT/108847
 
 #EXTINF:-1 tvg-id="TNTSPORTSARG" tvg-name="TNT Sports (Argentina)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_%282017%29_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="Deportes",TNT Sports (Argentina)
 http://yshoots.com:80/live/8603954198/2330968616/275002.ts
@@ -97,22 +97,25 @@ http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a47b4dfc-9ea1-4499-8562-b7b6
 http://yuniott.xyz/W9G5594/7KZL4WT/1124014
 
 #EXTINF:-1 tvg-id="DAZNLALIGA" tvg-name="DAZN LaLiga" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216022423418697_92.png" group-title="Deportes",DAZN La Liga
-http://yshoots.com:80/live/8603954198/2330968616/497096.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/309042
 
 #EXTINF:-1 tvg-id="DAZNLALIGA2" tvg-name="DAZN LaLiga 2" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020732500184_38.png" group-title="Deportes",DAZN La Liga 2
-http://yshoots.com:80/live/8603954198/2330968616/497097.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/975899
 
 #EXTINF:-1 tvg-id="MOVISTARDEPORTES" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1340px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/64d65a05-7288-48c9-80b0-11e4b7281fbc.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/1140852
 
 #EXTINF:-1 tvg-id="MOVISTARLIGADECAMPEONES" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="Deportes",Movistar Liga De Campeones
-http://yshoots.com:80/live/8603954198/2330968616/497139.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/1027138
 
 #EXTINF:-1 tvg-id="SKYSPORTS" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/344d5283-2f8f-43ae-85f0-5ba73d380f8e.ts
 
 #EXTINF:-1 tvg-id="TUDNVIX" tvg-name="TUDN Vix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Vix
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c7020a54-f327-47c1-b849-6482d55ba7bb.m3u8
+
+#EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
+http://yuniott.xyz/W9G5594/7KZL4WT/1028371
 
 #EXTINF:-1 tvg-id="TUDN2" tvg-name="TUDN Extra 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN Extra 2 USA
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/32659c44-6ef6-48df-8eba-d175deebe0c3.m3u8
